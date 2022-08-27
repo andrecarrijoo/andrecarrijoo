@@ -2,7 +2,7 @@
 
 Opa! Eu sou o André Carrijo!
 
-##Mini-currículo
+#Mini-currículo#
 
 - Consultor em Inovação, Gestão Empresarial e Gestão Financeira
 - Engenheiro Eletricista com Certificação em Telecomunicações pela UFU
